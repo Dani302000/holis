@@ -54,3 +54,30 @@
 [21:28:31] [Server thread/INFO]: Slayer_np was blown up by Creeper
 [21:30:39] [Server thread/INFO]: Slayer_np was slain by Zombie
 [21:31:25] [Server thread/INFO]: Slayer_np was slain by Zombie
+[21:34:06] [Server thread/INFO]: Slayer_np has made the advancement [Best Friends Forever]
+[21:34:37] [Server thread/INFO]: [Slayer_np: Set own game mode to Adventure Mode]
+[21:34:39] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:34:43] [Server thread/INFO]: [Slayer_np: Set own game mode to Adventure Mode]
+[21:34:45] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:34:45] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:38:30] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:38:33] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:40:09] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
+[21:40:24] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:40:26] [Server thread/INFO]: [Slayer_np: Set own game mode to Spectator Mode]
+[21:40:27] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:43:43] [Server thread/INFO]: Slayer_np fell from a high place
+[21:43:58] [Server thread/INFO]: [Slayer_np: Set own game mode to Creative Mode]
+[21:44:01] [Server thread/INFO]: [Slayer_np: Set own game mode to Survival Mode]
+[21:44:19] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 0.7262317358774908
+[21:44:20] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 1.8876482542111717
+[21:44:20] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 3.07162259025489
+[21:44:20] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 4.277024122418823
+[21:44:20] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 0.5390460923852629
+[21:44:20] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 0.5071868881331056
+[21:44:20] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 0.48000845300896344
+[21:44:20] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 1.7614861039562584
+[21:46:14] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 0.47579501555782144
+[21:46:14] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 0.709716638937934
+[21:46:14] [Server thread/WARN]: Oak Boat (vehicle of Slayer_np) moved wrongly! 0.9337052623793175
+[21:46:18] [Server thread/WARN]: Trying to set block entity dvb@6c58e3b9 at position jh{x=645, y=29, z=-860}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
