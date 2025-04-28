@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "b3c13a83-af49-34b4-b6c7-a16ffdb80dc0",
+    "name": "Slayer_np",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "83dc3388-c706-3c1d-99a6-d96c42f027d0",
+    "name": "slayer_power",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
