@@ -9,27 +9,28 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-04-28 14:29:40 +0000",
       "minecraft:snowy_slopes": "2025-04-28 14:11:33 +0000",
-      "minecraft:beach": "2025-04-28 14:34:43 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-28 21:33:45 +0000",
-      "minecraft:dark_forest": "2025-04-28 14:44:31 +0000",
       "minecraft:forest": "2025-04-28 14:11:54 +0000",
       "minecraft:taiga": "2025-04-28 14:25:18 +0000",
-      "minecraft:sparse_jungle": "2025-04-30 16:09:36 +0000",
       "minecraft:deep_ocean": "2025-04-28 14:34:01 +0000",
-      "minecraft:river": "2025-04-28 14:24:33 +0000",
-      "minecraft:stony_shore": "2025-04-28 14:19:45 +0000",
-      "minecraft:snowy_plains": "2025-04-28 14:15:34 +0000",
-      "minecraft:dripstone_caves": "2025-04-30 00:25:13 +0000",
       "minecraft:deep_cold_ocean": "2025-04-28 14:33:00 +0000",
       "minecraft:ice_spikes": "2025-04-28 21:43:56 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-28 14:35:20 +0000",
       "minecraft:frozen_ocean": "2025-04-28 21:22:51 +0000",
       "minecraft:frozen_river": "2025-04-28 21:19:24 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-28 21:45:22 +0000",
       "minecraft:ocean": "2025-04-28 14:33:55 +0000",
       "minecraft:jungle": "2025-04-30 00:46:11 +0000",
-      "minecraft:grove": "2025-04-28 21:14:35 +0000",
       "minecraft:birch_forest": "2025-04-28 14:40:48 +0000",
+      "minecraft:beach": "2025-04-28 14:34:43 +0000",
+      "minecraft:dark_forest": "2025-04-28 14:44:31 +0000",
+      "minecraft:sparse_jungle": "2025-04-30 16:09:36 +0000",
+      "minecraft:river": "2025-04-28 14:24:33 +0000",
+      "minecraft:stony_shore": "2025-04-28 14:19:45 +0000",
+      "minecraft:snowy_plains": "2025-04-28 14:15:34 +0000",
+      "minecraft:dripstone_caves": "2025-04-30 00:25:13 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-28 14:35:20 +0000",
+      "minecraft:grove": "2025-04-28 21:14:35 +0000",
+      "minecraft:savanna": "2025-04-30 16:30:49 +0000",
       "minecraft:plains": "2025-04-28 14:11:38 +0000"
     },
     "done": false
@@ -1661,6 +1662,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-04-30 16:26:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-30 16:16:30 +0000"
@@ -1676,6 +1683,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-30 16:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-30 16:26:31 +0000"
     },
     "done": true
   },
